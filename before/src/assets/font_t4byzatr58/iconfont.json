@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4608987",
+      "name": "联系人",
+      "font_class": "lianxiren",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5199413",
+      "name": "回款记录",
+      "font_class": "huikuanjilu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5767874",
+      "name": "任务进程",
+      "font_class": "renwujincheng",
+      "unicode": "ec35",
+      "unicode_decimal": 60469
+    },
+    {
+      "icon_id": "5769243",
+      "name": "工单",
+      "font_class": "gongdan",
+      "unicode": "ec37",
+      "unicode_decimal": 60471
+    },
+    {
+      "icon_id": "6605901",
+      "name": "59商机",
+      "font_class": "shangji",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "9759222",
+      "name": "客户",
+      "font_class": "kehu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "15644330",
+      "name": "跟进",
+      "font_class": "genjin",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "20710436",
+      "name": "订单",
+      "font_class": "dingdan01",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "24142627",
+      "name": "回款单",
+      "font_class": "huikuandan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "37652094",
+      "name": "工作台-新建线索",
+      "font_class": "gongzuotai-xinjianxiansuo",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
